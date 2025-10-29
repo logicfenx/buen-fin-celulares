@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/buen-fin-celulares",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a buen-fin-celulares",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/buen-fin-celulares.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/buen-fin-celulares-2025/"
+    },
+    "homepage": "https://isproto.com/buen-fin-celulares-2025/"
+}
